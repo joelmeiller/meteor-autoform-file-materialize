@@ -1,3 +1,7 @@
+# 0.0.81
+
+Changed version from less from 1.0.11 to 2.5.1 to make it compatible with the latest meteor autoform package versions
+
 # 0.0.6
 
 You can enable drop zone by setting `dropEnabled` to `true` (default is `false`).
